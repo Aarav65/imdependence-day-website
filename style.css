@@ -1,0 +1,93 @@
+body
+{
+    background: linear-gradient(#f57520 5%, #ffffff 60%, #28ad03 105%);
+    font-family: cursive;
+}
+
+#mynavbar
+{
+    background-color: cornflowerblue;
+    font-size: large;
+    position: fixed;
+    
+}
+
+.my_nav_bar
+{
+    background-color: cornflowerblue;
+    font-size: large;
+    position: fixed;
+}
+
+#v
+{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+#marqueestyle
+{
+    background-color: blue;
+    height: 30px;
+    font-size: 20px;
+    color: cornsilk;
+    font-weight: 500;
+}
+
+#v
+{
+    border-style: ridge;
+    border-radius: 10px;
+    border-width: 12px;
+}
+
+.BhagatSingh{
+    float: left;
+    width: 45.45%;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 100px;
+    border: 2px solid red;
+    font-size: 40px;
+    padding-bottom: 96px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.SardarVallabBhaiPatel
+{
+    float: left;
+    width: 45.45%;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid red;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#c
+{
+    height: 700px;
+}
+
+.more 
+{
+    margin-top: 100px;
+}
+#text
+{
+    font-size: 100px;
+}
+
+#year
+{
+    width: 50%;
+    height: 100px;
+    font-size: 50;
+}
+
+.footer
+{
+    background-color: blue;
+    color: chartreuse;
+    height: 60px;
+    font-size: 40px;
+}
